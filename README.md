@@ -1,7 +1,7 @@
 # Eugenia Sol Piñeiro
 ## Computer Engineer 
 
-Interested in the field of Artificial Intelligence Systems. Currently looking for new challenges that allow me to gros professionally. 
+Interested in the field of Artificial Intelligence Systems. Currently looking for new challenges that allow me to grow professionally. 
 
 I consider myself proactive enthusiastic and always eager to learn.
 
