@@ -1,16 +1,21 @@
-### Hi there 👋
+# Eugenia Sol Piñeiro
+## Computer Engineer 
 
-<!--
-**eugepineiro/eugepineiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in the field of Artificial Intelligence Systems. Currently looking for new challenges that allow me to gros professionally. 
 
-Here are some ideas to get you started:
+I consider myself proactive enthusiastic and always eager to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Projects 
+You can see all my programming projects [here](https://eugepineiro.github.io/)
+
+### 💬 How to reach me 
+- Via email: eugeniasolp@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/eugenia-pi%C3%B1eiro/)
+
+
+### 🖥️ Skills
+<p >
+  <a>
+    <img width="500" height="50" src="https://skillicons.dev/icons?i=python,java,c,cs,docker,unity,html,css,js,angular,postgres,aws,git" />
+  </a>
+</p>
